@@ -1,2 +1,8 @@
-# Mini-Project-2-PBW_Nabil-Daffa-Athalasyah
-Nama: Nabil Daffa Athalasyah Kelas: Sistem Informasi C' 2024 NIM: 2409116090
+## 👤 Informasi Project
+
+* **Nama**: Nabil Daffa Athalasyah
+* **NIM**: 2409116090
+* **Kelas**: Sistem Informasi C 2024
+* **Mata Kuliah**: Praktikum Pemrograman Berbasis Web
+
+---
