@@ -72,6 +72,8 @@ MINPRO2_PHP_NABIL/
 ├── style.css           # Custom Styling
 └── README.md           # Project Documentation
 
+---
+
 <p align="center">
-✨ Mini Project Pemrograman Berbasis Web - By Nabil Daffa Athalasyah ✨
+✨ Pemrograman Berbasis Web - By Nabil Daffa Athalasyah | 2026 All Rights Reserved. ✨
 </p>
