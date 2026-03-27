@@ -56,12 +56,13 @@ This project utilizes a modern combination of technologies:
 ---
 
 <p align="center">
-✨ Mini Project Pemrograman Berbasis Web - By Nabil Daffa Athalasyah ✨
+✨ Pemrograman Berbasis Web - By Nabil Daffa Athalasyah | 2026 All Rights Reserved. ✨
 </p>
 
+---
 
 ## 📂 Project Structure
-
+```text
 MINPRO2_PHP_NABIL/
 ├── assets/             # Images and Icons
 ├── index.php           # Main Portfolio Page
@@ -71,9 +72,3 @@ MINPRO2_PHP_NABIL/
 ├── koneksi.php         # Database Connection
 ├── style.css           # Custom Styling
 └── README.md           # Project Documentation
-
----
-
-<p align="center">
-✨ Pemrograman Berbasis Web - By Nabil Daffa Athalasyah | 2026 All Rights Reserved. ✨
-</p>
