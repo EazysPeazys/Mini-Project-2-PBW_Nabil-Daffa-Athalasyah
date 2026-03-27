@@ -66,3 +66,7 @@ MINPRO2_PHP_NABIL/
 ├── koneksi.php         # Database Connection
 ├── style.css           # Custom Styling
 └── README.md           # Project Documentation
+
+---
+
+*Project ini dibuat untuk memenuhi tugas Praktikum Pemrograman Aplikasi Bergerak 2026 - Project By Athalasyah Nabil.*
