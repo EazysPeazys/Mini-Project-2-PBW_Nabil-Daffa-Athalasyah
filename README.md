@@ -55,8 +55,13 @@ This project utilizes a modern combination of technologies:
 
 ---
 
+<p align="center">
+✨ Mini Project Pemrograman Berbasis Web - By Nabil Daffa Athalasyah ✨
+</p>
+
+
 ## 📂 Project Structure
-```text
+
 MINPRO2_PHP_NABIL/
 ├── assets/             # Images and Icons
 ├── index.php           # Main Portfolio Page
@@ -67,6 +72,6 @@ MINPRO2_PHP_NABIL/
 ├── style.css           # Custom Styling
 └── README.md           # Project Documentation
 
----
-
-*Project ini dibuat untuk memenuhi tugas Praktikum Pemrograman Aplikasi Bergerak 2026 - Project By Athalasyah Nabil.*
+<p align="center">
+✨ Mini Project Pemrograman Berbasis Web - By Nabil Daffa Athalasyah ✨
+</p>
