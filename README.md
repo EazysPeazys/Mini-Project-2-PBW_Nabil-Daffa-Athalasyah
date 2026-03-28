@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repository! This project is an evolution from a static HTML/Vue.js site to a dynamic website powered by **PHP** and **MySQL** database.
 
-## 👤 Informasi Project
+## 👤 Information Project
 
 * **Nama**: Nabil Daffa Athalasyah
 * **NIM**: 2409116090
