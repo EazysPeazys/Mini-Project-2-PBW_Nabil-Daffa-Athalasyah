@@ -32,7 +32,7 @@ This project utilizes a modern combination of technologies:
 ## 📸 Screenshots
 | Landing Page | Experience Management (CRUD) |
 |--------------|-----------------------------|
-| ![Landing Page](https://via.placeholder.com/400x200?text=Portfolio+Landing) | ![CRUD](https://via.placeholder.com/400x200?text=Experience+Dashboard) |
+| ![Landing Page](https://github.com/EazysPeazys/Mini-Project-2-PBW_Nabil-Daffa-Athalasyah/blob/670ce3e919c8a9f1c2c2db534fcaa21f3aecf70c/Screenshot%202026-03-28%20220420.png) | ![CRUD](https://github.com/EazysPeazys/Mini-Project-2-PBW_Nabil-Daffa-Athalasyah/blob/670ce3e919c8a9f1c2c2db534fcaa21f3aecf70c/Screenshot%202026-03-28%20220250.png) |
 > *Note: Replace these with your actual screenshots from the `assets/` folder.*
 
 ---
